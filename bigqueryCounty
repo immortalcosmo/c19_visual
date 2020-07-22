@@ -29,4 +29,5 @@ query_job = client.query(query, job_config=safe_config)
 
 # API request - run the query, and convert the results to a pandas DataFrame
 df = query_job.to_dataframe()
+df['county_fips_code'] = df['county_fips_code'].astype(str)
 df.to_csv('county.csv',index=False)
