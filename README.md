@@ -1,4 +1,4 @@
-# COVID 19 Data and Disualization  
+# COVID 19 Data and Visualization  
 
 ### bigqueryCounty.py  
 Uses SQL with Google BigQuery to obtain public data and write to .csv.  
