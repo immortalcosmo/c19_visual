@@ -1,4 +1,4 @@
-#COVID 19 Data and Disualization
+# COVID 19 Data and Disualization
 
 bigqueryCounty.py uses SQL with Google BigQuery to obtain public data and write to .csv.
 plotCounty.py reads the .csv file and writes figures for each day with specified start and ending dates.
