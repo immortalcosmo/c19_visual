@@ -7,14 +7,14 @@
 + countyAPNG.py - Utilizes all figures and forms the animated PNG you see here. Writes to AnimatedCounties.png
 --
 
-![State by Date](https://raw.githubusercontent.com/immortalcosmo/c19_visual/master/GA.html)
+![State by Date](https://raw.githubusercontent.com/immortalcosmo/c19_visual/master/GA.png)
 
 + bigqueryCounty.py - Prerequisite
 + transformToState.py - Transforms county.csv to state.csv
 + plotState.py - Plots specified state line graph, writes to 'state'.png
 --
 
-![COVID-19 in the U.S](https://raw.githubusercontent.com/immortalcosmo/c19_visual/master/usa.html)
+![COVID-19 in the U.S](https://raw.githubusercontent.com/immortalcosmo/c19_visual/master/usa.png)
 
 + bigqueryCounty.py - Prerequisite
 + transformToUS.py - Transforms state.csv to usa.csv
