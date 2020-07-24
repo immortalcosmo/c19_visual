@@ -2,9 +2,9 @@
 
 ![US Counties by Date](https://raw.githubusercontent.com/immortalcosmo/c19_visual/master/AnimatedCounties.png)
 
-+ bigqueryCounty.py - Uses SQL with Google BigQuery to obtain public data and write to .csv.  
-+ plotCounty.py - Reads the .csv file and writes figures for each day with specified start and ending dates.  
-+ countyAPNG.py - Utilizes all figures and forms the animated PNG you see here.  
++ bigqueryCounty.py - Uses SQL with Google BigQuery to obtain public data and writes to county.csv  
++ plotCounty.py - Reads the .csv file and writes figures for each day with specified start and ending dates. Makes image folder and writes to 'date'.png 
++ countyAPNG.py - Utilizes all figures and forms the animated PNG you see here. Writes to AnimatedCounties.png
 
 ![State by Date](https://raw.githubusercontent.com/immortalcosmo/c19_visual/master/GA.png)
 
