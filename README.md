@@ -8,3 +8,9 @@
 
 
 
++ transformToState.py - Transforms county.csv to state.csv
++ plotState.py - Plots specified state line graph, writes to 'state'.png
+
++ transformToUS.py - Transforms state.csv to usa.csv
++ plotCountry.py - Writes to usa.png
+
